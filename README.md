@@ -34,3 +34,7 @@ This library supports the parsing and verification as well as the generation and
 ## GORM (https://gorm.io/docs)
 
 The fantastic ORM library for Golang aims to be developer friendly.
+
+## Testing
+
+Using postman collection
